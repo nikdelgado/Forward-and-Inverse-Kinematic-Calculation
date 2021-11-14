@@ -1,0 +1,1 @@
+# forward-and-inverse-kinematic-calculation
